@@ -26,7 +26,7 @@ docker compose down
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 ### Autenticación
 - Registro de usuario con nombre de usuario y contraseña
